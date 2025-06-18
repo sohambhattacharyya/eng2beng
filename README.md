@@ -1,2 +1,3 @@
 # eng2beng
-A Tiny English to Bengali Machine Translation Model Using Transformer Architecture
+A Simple Tiny English to Bengali Machine Translation Model with Transformer Architecture
+![eng2beng](eng2beng_logo.png)
